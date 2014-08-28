@@ -10,6 +10,11 @@ This is an implementation of coroutines (with channels) in C++1y. This library m
 
 The `coro` library doesn't use an assembly (inline or otherwise), and is conformant C++1y.
 
+Building `coro`
+---------------
+
+The library is entirely contained within the file 'coro.hpp'. The other C++ files are examples.
+
 Basic API overview
 ------------------
 
